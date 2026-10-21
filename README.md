@@ -74,15 +74,24 @@ The project explores questions such as:
 - Which customers contribute the most revenue?
 - How many orders come from each country?
 
+
 ## Power BI Dashboard
 
-The Power BI report contains three pages:
+The interactive Power BI report contains three pages covering sales performance, customer and product analysis, and executive-level KPIs.
 
-1. **Monthly Revenue** — revenue trends over time.
-2. **Customer and Product Analysis** — country, product, and customer insights.
-3. **Executive Dashboard** — key performance indicators and summary charts.
+### 1. E-Commerce Sales Performance Dashboard
 
-Dashboard screenshots will be added here.
+![E-Commerce Sales Performance Dashboard](dashboard/screenshots/dashboard-page-1.png)
+
+### 2. Customer and Product Analysis
+
+![Customer and Product Analysis](dashboard/screenshots/dashboard-page-2.png)
+
+### 3. E-Commerce Executive Dashboard
+
+![E-Commerce Executive Dashboard](dashboard/screenshots/dashboard-page-3.png)
+
+
 
 ## How to Run
 
