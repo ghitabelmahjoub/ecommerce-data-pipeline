@@ -91,7 +91,15 @@ The interactive Power BI report contains three pages covering sales performance,
 
 ![E-Commerce Executive Dashboard](dashboard/screenshots/dashboard-page-3.png)
 
+## Key Business Findings
 
+The analysis of the Online Retail dataset explores sales performance, customer purchasing behavior, and product revenue.
+
+- **Sales Performance:** Analyzed monthly revenue trends to identify high-performing periods.
+- **Geographic Analysis:** Compared revenue and order counts across countries.
+- **Product Analysis:** Identified top-performing products by revenue and quantity sold.
+- **Customer Analysis:** Examined customer spending to identify high-value customers.
+- **Business Intelligence:** Prepared SQL-generated datasets for visualization in Power BI.
 
 ## How to Run
 
